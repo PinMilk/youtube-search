@@ -34,7 +34,7 @@ YoutubeSearch.execute('비긴어게인')
 |----|----|
 | `ko-KR` | Korean |
 | `en-US` | English(US) |
-| `en-GB` | English(US) |
+| `en-GB` | English(UK) |
 | `ja-JP` | Japanese |
 | `zh-CN` | Chinese(Simplified) |
 | `zh-TW` | Chinese(Traditional) |
