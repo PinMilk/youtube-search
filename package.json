@@ -1,17 +1,30 @@
 {
   "name": "youtube-search",
   "version": "1.0.0",
-  "description": "",
+  "description": "Unofficial YouTube searching engine",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "PinMilk <hanbyeul04@kakao.com> (https://github.com/PinMIlk)",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.21.0"
   },
   "devDependencies": {
     "@types/node": "^14.14.13"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PinMilk/youtube-search.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PinMilk/youtube-search/issues"
+  },
+  "homepage": "https://github.com/PinMilk/youtube-search#readme",
+  "keywords": [
+    "유튜브",
+    "YouTube",
+    "Search"
+  ]
 }
