@@ -4,16 +4,16 @@
 [![License](https://img.shields.io/github/license/pinmilk/youtube-search)](#)
 - Note: It can stop working anytime.
 
-[![NPM](https://nodei.co/npm/youtube-search.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/youtube-search/)
+[![NPM](https://nodei.co/npm/youtube-search-engine.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/youtube-search-engine/)
 
 ## Install
 ```
-npm install youtube-search
+npm install youtube-search-engine
 ```
 ## Github
 `https://github.com/PinMIlk/youtube-search`
 ## npm
-`https://www.npmjs.com/package/youtube-search`
+`https://www.npmjs.com/package/youtube-search-engine`
 ## Example
 ```typescript
 import {
@@ -38,7 +38,7 @@ YoutubeSearch.execute('비긴어게인')
 | `ja-JP` | Japanese |
 | `zh-CN` | Chinese(Simplified) |
 | `zh-TW` | Chinese(Traditional) |
-Tell me other language with issue if you need.
+- Tell me other language with issue if you need.
 ## Return value
 ### Video
 | Key | Detail | Type |

@@ -1,5 +1,5 @@
 {
-  "name": "youtube-search",
+  "name": "youtube-search-engine",
   "version": "1.0.0",
   "description": "Unofficial YouTube searching engine",
   "main": "index.js",
