@@ -1,6 +1,4 @@
-import {
-    YoutubeSearch
-} from './src/search';
+import YoutubeSearch from './';
 
 YoutubeSearch.execute('비긴어게인')
     .then(res => console.log(res))
